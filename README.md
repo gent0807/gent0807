@@ -1,8 +1,8 @@
+<img src="112.jpg" width=1000></br>
 ## Hello World, I'm Yoonseop! **🙋**
 #### Welcome to my page!
 #### Now, I'm a student enrolled in *Dongyang Mirae University* in Seoul, South Korea. 🎒
 #### and aspiring to be a **Software Engineer** for web & mobile app. 👨‍💻   
-<img src="112.jpg">
 
 ## I'm dealing with
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> </br>
