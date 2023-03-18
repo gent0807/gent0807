@@ -30,7 +30,7 @@
 * establishing concepts of programming language grammer for datastructure and algorythm
 #### also, You can see my posts about things now I'm focusing on through the next links. so try checking!
 
-(http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@gent0807)<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 ## Mention
 #### I think basic is the most important and awesome thing.
 #### Don't forget "1+1=2".
