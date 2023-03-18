@@ -3,7 +3,7 @@
 #### Now, I'm a student enrolled in *Dongyang Mirae University* in Seoul, South Korea. 🎒
 #### and aspiring to be a **Software Engineer** for web & mobile app. 👨‍💻   
 ## I'm dealing with
-* language
+* language: ?style=for-the-badge&logo=appveyor
 
 ## Mention
 #### I think basic is the most important and awesome thing.
