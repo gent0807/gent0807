@@ -31,7 +31,7 @@
 </div>
 <div style="float:left; width:50%">
 <img src="developer.gif" width=300 height=200></br>
-</div>
+</div> </br>
 ## Now I'm focusing on
 * understanding computer science about computer architectiure, compiler, network, os
 * establishing concepts of programming language grammer for datastructure and algorithm
