@@ -2,7 +2,7 @@
 #### Welcome to my page!
 #### Now, I'm a student enrolled in *Dongyang Mirae University* in Seoul, South Korea. 🎒
 #### and aspiring to be a **Software Engineer** for web & mobile app. 👨‍💻   
-<model-viewer camera-controls alt="Model" src="https://modelviewer.dev/shared-assets/models/shishkebab.glb">
+<model-viewer camera-controls alt="Model" src="avatar.glb">
                 </model-viewer>
 ## I'm dealing with
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> </br>
