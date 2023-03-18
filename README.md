@@ -1,8 +1,8 @@
 #### Hi there!👋
-#### Now, I'm a student enrolled in Dongyang Mirae University in Seoul, South Korea 🎒
+#### Now, I'm a student enrolled in Dongyang Mirae University in Seoul, South Korea. 🎒
 #### and aspiring to be a Software Engineer for web & mobile app. 👨‍💻
-
-
+#### Don't forget "1+1=2".
+#### Thank you.
 
 <!--
 **gent0807/gent0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
