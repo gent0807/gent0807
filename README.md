@@ -4,10 +4,10 @@
 #### and aspiring to be a **Software Engineer** for web & mobile app. 👨‍💻   
 
 ## I'm dealing with
-<div style="float:left">
+<div style="display:inline-block">
 fdfsfd
 </div>
-<div style="float:left">
+<div style="display:inline-block">
 fdfsfd
 </div>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> </br>
