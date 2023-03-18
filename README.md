@@ -1,4 +1,4 @@
-<img src="mario.gif" width=500></br>
+<img src="mario.gif"></br>
 ## Hello World, I'm Yoonseop! **🙋**
 #### Welcome to my page!
 #### Now, I'm a student enrolled in *Dongyang Mirae University* in Seoul, South Korea. 🎒
