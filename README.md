@@ -5,7 +5,7 @@
 ## I'm dealing with
 #### 
 ## Mention
-#### I think basic is the most important and difficult thing.
+#### I think basic is the most important and awesome thing.
 #### Don't forget "1+1=2".
 #### Thank you.
 
