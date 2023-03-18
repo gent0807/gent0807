@@ -41,7 +41,7 @@
 #### I think basic is the most important and awesome idea.
 #### Don't forget "1+1=2".
 #### Thank you. 👋 
-<img src="mario.gif" width=900 height=250></br>
+<img src="avatar.glb" width=900 height=250></br>
 
 <!--
 **gent0807/gent0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
