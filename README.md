@@ -2,10 +2,12 @@
 #### Now, I'm a student enrolled in *Dongyang Mirae University* in Seoul, South Korea. 🎒
 #### and aspiring to be a **Software Engineer** for web & mobile app. 👨‍💻   
 ___
-### I'm dealing                        
+### I'm interesting in 
+* computer architecture 
+* network 
 ___
 #### I think basic is the most important and difficult thing.
-#### Don't forget "1+1=2".
+> Don't forget "1+1=2".
 #### Thank you.
 
 <!--
