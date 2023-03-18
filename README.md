@@ -2,7 +2,6 @@
 #### Welcome to my page!
 #### Now, I'm a student enrolled in *Dongyang Mirae University* in Seoul, South Korea. 🎒
 #### and aspiring to be a **Software Engineer** for web & mobile app. 👨‍💻   
-<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 <model-viewer camera-controls alt="Model" src="https://modelviewer.dev/shared-assets/models/shishkebab.glb">
                 </model-viewer>
 ## I'm dealing with
