@@ -26,7 +26,6 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
 ## Mention
-## Mention
 #### I think basic is the most important and awesome thing.
 #### Don't forget "1+1=2".
 #### Thank you. 👋 
