@@ -41,7 +41,7 @@
 #### I think basic is the most important and awesome idea.
 #### Don't forget "1+1=2".
 #### Thank you. 👋 
-<img src="mario.gif" width=900 height=250></br>
+<img src="developer.gif" width=900 height=250></br>
 
 
 <!--
