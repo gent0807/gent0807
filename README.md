@@ -24,9 +24,12 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"></br>
 ## Now I'm focusing on
-
+* understanding computer science about computer architectiure, compiler, network, os
+* establishing concepts of programming language grammer for datastructure and algorythm
+also, You can see my posts about things I'm focusing on through links. so try checking!
+<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velogs&logoColor=white">
 ## Mention
 #### I think basic is the most important and awesome thing.
 #### Don't forget "1+1=2".
