@@ -8,7 +8,7 @@
 ## Mention
 #### I think basic is the most important and awesome thing.
 #### Don't forget "1+1=2".
-#### Thank you.
+#### Thank you. 👋
 
 <!--
 **gent0807/gent0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
