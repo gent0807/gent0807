@@ -36,7 +36,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?v=1c13ce75e05f4eef8671e2cd0b454635&url=https%3A%2F%2Fwww.notion.so%2Fb4eac08c0153481c8872de64a78ca299&count_bg=%23C8A33D&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=notion+hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40gent0807&count_bg=%23333B39&title_bg=%2331BC7B&icon=&icon_color=%23E7E7E7&title=velog+hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gent0807)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gent0807)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysshin)](https://solved.ac/ysshin/)
 ## Mention
 #### I think basic is the most important and awesome idea.
 #### Don't forget "1+1=2".
