@@ -4,7 +4,7 @@
 #### and aspiring to be a **Software Engineer** for web & mobile app. 👨‍💻   
 
 ## I'm dealing with
-<div float="left">
+<div display="inline-block">
 <div>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> </br>
 <img src="https://img.shields.io/badge/Java-88CE02?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> </br>
