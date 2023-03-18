@@ -1,4 +1,4 @@
-## Hello World, I'm Yoonseop!👋
+## Hello World, I'm Yoonseop!**👋**
 #### Welcome to my page!
 #### Now, I'm a student enrolled in *Dongyang Mirae University* in Seoul, South Korea. 🎒
 #### and aspiring to be a **Software Engineer** for web & mobile app. 👨‍💻   
