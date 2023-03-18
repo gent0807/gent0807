@@ -1,7 +1,7 @@
 
 * * *
-#### Hi there!👋
-#### I'm Yoonseop from 
+#### Hello World!👋
+#### I'm Yoonseop from South Korea
 #### Now, I'm a student enrolled in Dongyang Mirae University in Seoul, South Korea. 🎒
 #### and aspiring to be a Software Engineer for web & mobile app. 👨‍💻
 ####
