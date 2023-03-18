@@ -35,11 +35,12 @@
 * building a ci/cd pipeline.
 #### Also, you can see my posts about things now I'm focusing on through the next links. so try checking!
 <a href="https://www.notion.so/b4eac08c0153481c8872de64a78ca299?v=1c13ce75e05f4eef8671e2cd0b454635"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a> <a href="https://velog.io/@gent0807"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a> <a href="https://gent0807.github.io"><img src="https://img.shields.io/badge/Github Pages-222222?style=for-the-badge&logo=Github Pages&logoColor=white"></a>
+#### Stats
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gent0807)](https://github.com/anuraghazra/github-readme-stats)
 ## Mention
 #### I think basic is the most important and awesome idea.
 #### Don't forget "1+1=2".
 #### Thank you. 👋 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gent0807)](https://github.com/anuraghazra/github-readme-stats)
 <img src="mario.gif" width=900 height=250></br>
 
 <!--
