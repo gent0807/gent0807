@@ -3,7 +3,9 @@
 #### Now, I'm a student enrolled in *Dongyang Mirae University* in Seoul, South Korea. 🎒
 #### and aspiring to be a **Software Engineer** for web & mobile app. 👨‍💻   
 ## I'm dealing with
-<img src="https://img.shields.io/badge/Java-1E8CBE?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> 
+<img src="https://img.shields.io/badge/Java-88CE02?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
+
+## Mention
 ## Mention
 #### I think basic is the most important and awesome thing.
 #### Don't forget "1+1=2".
