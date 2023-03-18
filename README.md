@@ -39,6 +39,7 @@
 #### I think basic is the most important and awesome idea.
 #### Don't forget "1+1=2".
 #### Thank you. 👋 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gent0807)](https://github.com/anuraghazra/github-readme-stats)
 <img src="mario.gif" width=900 height=250></br>
 
 <!--
