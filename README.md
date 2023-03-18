@@ -30,6 +30,7 @@
 ## Now I'm focusing on
 * understanding computer science about computer architectiure, compiler, network, os
 * establishing concepts of programming language grammer for datastructure and algorithm
+* building a ci/cd pipeline.
 #### Also, you can see my posts about things now I'm focusing on through the next links. so try checking!
 <a href="https://www.notion.so/b4eac08c0153481c8872de64a78ca299?v=1c13ce75e05f4eef8671e2cd0b454635"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a> <a href="https://velog.io/@gent0807"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a> <img src="https://img.shields.io/badge/Github Pages-222222?style=for-the-badge&logo=Github Pages&logoColor=white">
 ## Mention
