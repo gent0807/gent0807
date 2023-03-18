@@ -3,7 +3,7 @@
 #### and aspiring to be a **Software Engineer** for web & mobile app. 👨‍💻   
 ___
 ### I'm dealing with
-####
+#### 
 ___
 #### I think basic is the most important and difficult thing.
 #### Don't forget "1+1=2".
