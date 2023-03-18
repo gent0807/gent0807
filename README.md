@@ -1,5 +1,5 @@
-####  👋 Hi there! Now, I'm a student enrolled in Dongyang Mirae University in Seoul, South Korea
-####           and aspiring to be a Software Engineer for web and mobile app. 
+#### Hi there! 👋 Now, I'm a student enrolled in Dongyang Mirae University in Seoul, South Korea
+#### and aspiring to be a Software Engineer for web and mobile app. 
 
 
 
