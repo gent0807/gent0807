@@ -1,10 +1,9 @@
-
+#### Hello World!👋 
 * * *
-#### Hello World!👋
-#### I'm Yoonseop from Ansan, South Korea, currently linving in there.
+#### I'm linving in Ansan, South Korea 
 #### Now, I'm a student enrolled in Dongyang Mirae University in Seoul, South Korea. 🎒
 #### and aspiring to be a Software Engineer for web & mobile app. 👨‍💻
-####
+####              
 #### I think basic is the most important and difficult thing.
 #### Don't forget "1+1=2".
 #### Thank you.
