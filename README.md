@@ -1,3 +1,4 @@
+<img src="Hello World (1).png">
 ## Hello World, I'm Yoonseop! **🙋**
 #### Welcome to my page!
 #### Now, I'm a student enrolled in *Dongyang Mirae University* in Seoul, South Korea, 
