@@ -1,5 +1,5 @@
 <img src="Hello World (1).png"> </br>
-## Hello World, I'm Yoonseop! **🙋**
+## Nice to see you. **🙋**
 #### Welcome to my page!
 #### Now, I'm a student enrolled in *Dongyang Mirae University* in Seoul, South Korea, 
 #### aspiring to be a **Software Engineer** for web & mobile app. 👨‍💻   
