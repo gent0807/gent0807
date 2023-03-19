@@ -1,7 +1,7 @@
 ## Hello World, I'm Yoonseop! **🙋**
 #### Welcome to my page!
 #### Now, I'm a student enrolled in *Dongyang Mirae University* in Seoul, South Korea, 
-#### and aspiring to be a **Software Engineer** for web & mobile app. 👨‍💻   
+#### aspiring to be a **Software Engineer** for web & mobile app. 👨‍💻   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgent0807&count_bg=%23333B39&title_bg=%2339BE32&icon=&icon_color=%23E7E7E7&title=github+hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ## I'm dealing with
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> </br>
